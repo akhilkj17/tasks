@@ -7,3 +7,5 @@ Not shown: 998 closed ports
 PORT     STATE SERVICE
 80/tcp   open  http
 443/tcp  open  https
+
+Analyzed using wireshark. and captured
